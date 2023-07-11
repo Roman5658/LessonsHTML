@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML Lessons.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1/lesson1 hw2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1/lesson1 hw2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1/lesson1 hw3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 1/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html leson1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +41,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1\lesson 1 hw1" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1" />
     </key>
   </component>
@@ -64,11 +54,30 @@
       <option name="presentableId" value="Default" />
       <updated>1689100832746</updated>
       <workItem from="1689100833896" duration="342000" />
-      <workItem from="1689101526590" duration="6314000" />
+      <workItem from="1689101526590" duration="6633000" />
     </task>
+    <task id="LOCAL-00001" summary="html leson1">
+      <created>1689108225361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689108225361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="html leson1">
+      <created>1689108243970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689108243970</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html leson1" />
+    <option name="LAST_COMMIT_MESSAGE" value="html leson1" />
   </component>
 </project>
