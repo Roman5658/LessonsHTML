@@ -11,18 +11,12 @@
     width: 100px;
     height: 100px;
     transition: 1s;
-
-
-
-
 }
 .red:hover{
     background: darkgray;
     transition: 2s;
-    border: 5px cornflowerblue;
     border-radius: 50%;
     background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCf0NrVH3T7zuTbx-0tm627SQWHl7UCVWuZA&usqp=CAU");
     background-position: center;
-
 
 }
