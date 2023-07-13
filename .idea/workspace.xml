@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html leson1" />
+    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html leson1">
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw test/images/photo-1502691876148-a84978e59af8.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw test/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\hw test\images" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1\lesson 1 hw1" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1" />
     </key>
@@ -55,6 +67,17 @@
       <updated>1689100832746</updated>
       <workItem from="1689100833896" duration="342000" />
       <workItem from="1689101526590" duration="6633000" />
+      <workItem from="1689191017628" duration="89000" />
+      <workItem from="1689191473515" duration="6000" />
+      <workItem from="1689191497313" duration="3261000" />
+      <workItem from="1689195477317" duration="2091000" />
+      <workItem from="1689273423316" duration="731000" />
+      <workItem from="1689274258833" duration="945000" />
+      <workItem from="1689275315254" duration="115000" />
+      <workItem from="1689275524989" duration="32000" />
+      <workItem from="1689275583887" duration="7209000" />
+      <workItem from="1689283127190" duration="538000" />
+      <workItem from="1689283723699" duration="1188000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
