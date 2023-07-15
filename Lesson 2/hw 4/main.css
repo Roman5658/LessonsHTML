@@ -3,17 +3,20 @@ body{
 }
 .mainBox{
     width: 100%;
-    height: 800px;
+    height: 930px;
     background: darkgray;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-direction: column;
+
 
 }
 .boxFree{
     width: 440px;
     height: 530px;
-    background: #bbe8e8;
+    /*background: #bbe8e8;*/
+    border: 1px solid;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -49,4 +52,12 @@ body{
 .mainText{
     width: 100%;
     height: 100px;
+}
+
+
+
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

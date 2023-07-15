@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson1 hw2">
-      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 2/hw 4/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 3/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 1/lesson1 hw2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1/lesson1 hw2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +46,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -75,6 +81,9 @@
       <workItem from="1689314939053" duration="2489000" />
       <workItem from="1689317644850" duration="35000" />
       <workItem from="1689317686972" duration="3558000" />
+      <workItem from="1689321594491" duration="3634000" />
+      <workItem from="1689330576143" duration="1279000" />
+      <workItem from="1689427526276" duration="8744000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
@@ -104,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689288621634</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="html lesson1 hw2">
+      <created>1689322411768</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689322411768</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

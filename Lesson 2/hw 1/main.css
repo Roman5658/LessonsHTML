@@ -8,8 +8,9 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 5px cyan;
+    border: 2px solid deepskyblue;
     border-radius: 20px;
+
 
 }
 .box1{
@@ -36,3 +37,4 @@ body{
 .indie{
     font-family: 'Sedgwick Ave Display', cursive;
 }
+
