@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson1 hw2">
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw4/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/лоол/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/лоол/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 1/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 2/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 2/hw 3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 3/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson 2/hw 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson 2/hw 4/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 2/hw 4/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1/lesson1 hw2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1/lesson1 hw2/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uygjhj/hw2.3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uygjhj/hw2.3.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +59,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\uygjhj" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\hw test\images" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1\lesson 1 hw1" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1" />
@@ -84,6 +92,10 @@
       <workItem from="1689321594491" duration="3634000" />
       <workItem from="1689330576143" duration="1279000" />
       <workItem from="1689427526276" duration="8744000" />
+      <workItem from="1689454588724" duration="3258000" />
+      <workItem from="1689458186772" duration="74000" />
+      <workItem from="1689498768235" duration="4548000" />
+      <workItem from="1689710436614" duration="6440000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
@@ -120,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689322411768</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="html lesson1 hw2">
+      <created>1689457473299</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689457473299</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

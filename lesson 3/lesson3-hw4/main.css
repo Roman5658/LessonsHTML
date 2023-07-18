@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+.top{
+    width: 100vw;
+    height: 50vh;
+    background: #a87676;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #181313;
+    flex-direction: column;
+
+}
+
+.bottom{
+    width: 100vw;
+    height: 50vh;
+    background: #181313;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #faf6f6;
+    flex-direction: column;
+
+
+}
+
+p, h1{
+    margin-right: 60px;
+    margin-left: 60px;
+    font-size: 1.50em;
+}

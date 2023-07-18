@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+#top{
+    width: 100vw;
+    height: 100vh;
+    background: #458567;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#center{
+    width: 100vw;
+    height: 100vh;
+    background: #723c81;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#bottom{
+    width: 100vw;
+    height: 100vh;
+    background: #776837;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 4em;
+}
+h2{
+    font-size: 3em;
+}
+
+html{
+    scroll-behavior: smooth;
+}
