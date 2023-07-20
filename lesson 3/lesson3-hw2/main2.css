@@ -1,0 +1,63 @@
+header{
+    width: 100vw;
+    height: 10vw;
+    background: #bbe8e8;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.header{
+    margin-left: 150px;
+    font-size: 2em;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+
+}
+main{
+    display: flex;
+    justify-content: center;
+    padding-top: 75px;
+}
+
+.click{
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.watchVideo{
+    border: 1px solid;
+    border-radius: 20px;
+    margin-right: 25px;
+    margin-top: 10px;
+    width: 130px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.learnMore{
+    border: 1px solid;
+    border-radius: 20px;
+    background: #3D6FB44A;
+    margin-top: 10px;
+    width: 130px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+p{
+    font-size: 2em;
+}
+h1{
+    font-size: 2em;
+}
