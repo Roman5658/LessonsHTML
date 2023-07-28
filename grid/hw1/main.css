@@ -1,0 +1,69 @@
+header{
+    grid-area: header;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background: #D9D9D9;
+
+}
+main{
+    grid-area: main;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background: #BAB5B5;
+
+}
+.left{
+    grid-area: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background: #989595;
+
+
+
+}
+.right{
+    grid-area: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background: #716B6B;
+
+
+
+}
+footer{
+    grid-area: footer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    background: #D9D9D9;
+
+}
+
+body{
+    margin: 0;
+    height: 100vh;
+    display: grid;
+    grid-template-areas:
+    "header header"
+    "main main"
+    "left right"
+    "footer footer";
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 2.5fr 3fr 3fr 1.5fr;
+    /*grid-gap: 5px;*/
+
+}
+
+header, main, section, article, footer{
+    border: 1px solid;
+
+}

@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson3 hw3">
-      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/main2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/main3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 3/lesson3-hw2/stock-vector-superhero-couple-man-and-woman-removebg-preview 1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6.1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6.1/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/wh6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pomoc/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pomoc/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/лоол/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/лоол/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/лоол/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/лоол/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +54,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\pomoc" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 3\lesson3-hw2" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\uygjhj" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\hw test\images" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1\lesson 1 hw1" />
-      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -89,7 +93,8 @@
       <workItem from="1689498768235" duration="4548000" />
       <workItem from="1689710436614" duration="11823000" />
       <workItem from="1689723384582" duration="3972000" />
-      <workItem from="1689842920937" duration="853000" />
+      <workItem from="1689842920937" duration="4404000" />
+      <workItem from="1690535276804" duration="3135000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
@@ -140,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689717787586</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="html lesson3 hw3">
+      <created>1689846446541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689846446541</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
