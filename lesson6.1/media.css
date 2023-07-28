@@ -1,0 +1,47 @@
+@media screen and (max-width: 390px){
+
+.up{
+    width: 100%;
+    height: 150px;
+    border-radius: 15px;
+
+}
+    .left{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 290px;
+        background: white;
+    }
+    header{
+        width: 100%;
+        height: 150px;
+        border-radius: 15px;
+        background: #d2efef;
+    }
+    .c, .d, .e{
+        height: 150px;
+        width: 100%;
+        border-radius: 15px;
+        background: #bbe8e8;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        border-radius: 15px;
+        height: 45vh;
+        background: #88e3a5;
+    }
+    .right{
+        height: 200px;
+        width: 100%;
+        border-radius: 15px;
+    }
+   .bottom{
+       height: 150px;
+       background: white;
+
+   }
+
+}

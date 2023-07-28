@@ -1,0 +1,19 @@
+@media screen and (max-width: 390px) {
+header{
+    background: #bbe8e8;
+    width: 100vw;
+    height: 100px;
+    border-radius: 15px;
+}
+    footer{
+        flex-direction: column;
+    }
+    .left, .right{
+        width: 100vw;
+        height: 100px;
+        background: #458567;
+        border-radius: 15px;
+    }
+  
+    
+}
