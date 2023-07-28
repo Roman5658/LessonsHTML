@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson3 hw3">
-      <change afterPath="$PROJECT_DIR$/lesson6.1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6.1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/wh6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomoc/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pomoc/login.html" afterDir="false" />
+    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson3 hw6 grid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/лоол/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/лоол/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/лоол/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/лоол/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML Lessons.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Lessons.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/hw1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/grid/hw1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/hw2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/grid/hw2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +48,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\grid\hw1" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\pomoc" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 3\lesson3-hw2" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\uygjhj" />
       <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\hw test\images" />
-      <recent name="C:\Users\HP\IdeaProjects\HTML Lessons\lesson 1\lesson 1 hw1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,6 +89,8 @@
       <workItem from="1689723384582" duration="3972000" />
       <workItem from="1689842920937" duration="4404000" />
       <workItem from="1690535276804" duration="3135000" />
+      <workItem from="1690538685049" duration="11951000" />
+      <workItem from="1690552056049" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
@@ -152,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1689846446541</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="html lesson3 hw6">
+      <created>1690544919117</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690544919117</updated>
+    </task>
+    <task id="LOCAL-00010" summary="html lesson3 hw6 grid">
+      <created>1690551989992</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690551989992</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +172,8 @@
     <MESSAGE value="html leson1" />
     <MESSAGE value="html lesson1 hw2" />
     <MESSAGE value="html lesson3 hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="html lesson3 hw3" />
+    <MESSAGE value="html lesson3 hw6" />
+    <MESSAGE value="html lesson3 hw6 grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="html lesson3 hw6 grid" />
   </component>
 </project>

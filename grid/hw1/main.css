@@ -59,7 +59,7 @@ body{
     "footer footer";
     grid-template-columns: 2fr 1fr;
     grid-template-rows: 2.5fr 3fr 3fr 1.5fr;
-    /*grid-gap: 5px;*/
+
 
 }
 
