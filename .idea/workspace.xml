@@ -4,51 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html lesson3 hw6 grid">
-      <change afterPath="$PROJECT_DIR$/finished/anonybus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/dodik.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/dodik1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/dodik2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/dodik3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/dodik4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/eb1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/eb2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/eb3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/eb4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/eb5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/f7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/image 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/po5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/popo5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finished/y.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="7c95f529-5fb5-4e73-8cae-f48ca7d5f45c" name="Changes" comment="html project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid/hw1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/grid/hw1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/finished/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +90,7 @@
       <workItem from="1690538685049" duration="11951000" />
       <workItem from="1690552056049" duration="102000" />
       <workItem from="1690552176385" duration="52575000" />
-      <workItem from="1691365958911" duration="1742000" />
+      <workItem from="1691365958911" duration="2483000" />
     </task>
     <task id="LOCAL-00001" summary="html leson1">
       <created>1689108225361</created>
@@ -211,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690552203972</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="html project">
+      <created>1691435504263</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691435504263</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +188,7 @@
     <MESSAGE value="html lesson3 hw3" />
     <MESSAGE value="html lesson3 hw6" />
     <MESSAGE value="html lesson3 hw6 grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="html lesson3 hw6 grid" />
+    <MESSAGE value="html project" />
+    <option name="LAST_COMMIT_MESSAGE" value="html project" />
   </component>
 </project>
